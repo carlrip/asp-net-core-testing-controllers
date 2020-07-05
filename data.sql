@@ -1,0 +1,6 @@
+INSERT dbo.Product(ProductID, ProductName)
+VALUES ('E897FF55-8F3D-4154-B582-8D37D116347F', N'Chai')
+GO
+INSERT dbo.Product(ProductID, ProductName)
+VALUES ('F5506F2A-5148-44FE-9225-AC75108AA30F', N'Chang')
+GO
